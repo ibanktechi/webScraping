@@ -1,0 +1,6 @@
+numpy
+pandas
+pandas-datareader
+urllib3
+beautifulsoup4
+quandl
